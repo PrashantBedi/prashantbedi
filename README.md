@@ -2,9 +2,9 @@
 
 **Few things about me**
 - 🔭 I’m currently working on a template for protfolio websites
-- 🌱 I’m currently learning react and golang
-- 💬 Ask me about golang, java and react
-- 📫 You can reach me at prashantbedi241197@gmail.com
+- 🌱 I’m currently learning AI and ML.
+- 💬 Ask me about golang and flutter.
+- 📫 You can reach me at prashantbedi3@gmail.com
 - 😄 Pronouns: He|Him
 - ⚡ Fun fact: I am a gamer
 <!-- 
